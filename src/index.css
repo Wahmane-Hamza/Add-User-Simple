@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.forme
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#name{
+    margin-bottom: 20px;
+}
+
+.radios input
+{
+    margin-right: 15px;
+}
+
+
+.result
+{
+    display: flex;
+    justify-content: start;
+    width: 100vw;
+}
